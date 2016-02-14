@@ -10,4 +10,4 @@ import os
 
 if __name__ == "__main__":
     print "add print"
-    print "201602060850"
+    print "def"
